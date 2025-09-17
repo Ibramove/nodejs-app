@@ -1,8 +1,13 @@
 git init
+
 git remote add origin https://github.com/Ibramove/nodejs-app.git
+
 git add .
+
 git commit -m "Ajout app Node.js"
+
 git branch -M main
+
 git push -u origin main
 
 
